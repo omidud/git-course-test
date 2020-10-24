@@ -14,3 +14,4 @@ This is a sentence.
 
 *italic*
 **bold**
+~~Strikethrough~~

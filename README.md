@@ -27,3 +27,10 @@ This is a sentence.
   - sub-tem
   - sub-tem
 3. Item 3
+
+## Code
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```

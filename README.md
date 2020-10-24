@@ -19,8 +19,11 @@ This is a sentence.
 ## Order List
 
 1. Item 1
-*a
-*b
-*c
+* a
+* b
+* c
 2. Item 2
+  - sub-tem
+  - sub-tem
+  - sub-tem
 3. Item 3

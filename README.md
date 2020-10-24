@@ -15,3 +15,9 @@ This is a sentence.
 *italic*  **bold**  ~~Strikethrough~~
 
 [this is a link](http://example.com)
+
+## Order List
+
+1. Item 1
+2. Item 2
+3. Item 3

@@ -13,3 +13,5 @@ This is a sentence.
 ###### H6
 
 *italic*  **bold**  ~~Strikethrough~~
+
+[this is a link] (http://example.com)

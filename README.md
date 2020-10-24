@@ -14,4 +14,4 @@ This is a sentence.
 
 *italic*  **bold**  ~~Strikethrough~~
 
-[this is a link] (http://example.com)
+[this is a link](http://example.com)
